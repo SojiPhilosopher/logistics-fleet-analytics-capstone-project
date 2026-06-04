@@ -60,11 +60,17 @@ Focuses on:
 ## Author
 
 Joy Ejimofor
-Dashboard screenshots
 
+## Dashboard Screenshots
 
-Dashboard 1-executive-overview.png
+### Dashboard 1 – Executive Overview
 
-Dashboard 2-operations-analysis.png
+![Dashboard 1](Dashboard%201-executive-overview.png)
 
-Dashboard 3-fuel-efficiency.png
+### Dashboard 2 – Operations Analysis
+
+![Dashboard 2](Dashboard%202-operations-analysis.png)
+
+### Dashboard 3 – Fuel Efficiency Analysis
+
+![Dashboard 3](Dashboard%203-fuel-efficiency.png)
